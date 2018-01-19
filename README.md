@@ -1,6 +1,6 @@
 # Leanplum-tvOS-SDK
 
-##It's important to note that official support for tvOS is limited. However, if you are trying to use Leanplum on a tvOS application, continue below for an example of how you can integrate the LeanplumTV SDK.
+## It's important to note that official support for tvOS is limited. However, if you are trying to use Leanplum on a tvOS application, continue below for an example of how you can integrate the LeanplumTV SDK.
 
 The following setup guide uses Cocoapods. This is a sample integration framework on how you can implement the Leanplum tvOS SDK. 
 
